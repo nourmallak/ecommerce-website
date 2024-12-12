@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bad+Script&family=Kalam:wght@300;400;700&family=Spicy+Rice&display=swap');
+
+.title
+{
+    color:#A78D78;
+    font-family: "Bad Script", cursive;
+    margin-bottom: 50px;
+}
+.swiper
+{
+    width:50% !important;
+}
+.swiper-bullet-active {
+    background: #A78D78;
+    opacity: 0.7;
+  }

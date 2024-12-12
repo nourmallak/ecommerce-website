@@ -1,0 +1,32 @@
+.title
+{
+    color: #A78D78 !important;
+    background-color: #FAF7F0;
+    padding: 10px;
+    margin-top: 20px;
+}
+.order
+{
+    margin-bottom: 100px;
+}
+.order td,th{
+    color: #A78D78 !important;
+}
+.order h4{
+   text-align: center;
+   color: #A78D78 !important;
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border: 2px solid #FAF7F0  ;
+
+}
+.order button
+{
+    color: #FAF7F0 !important;
+    background-color: #A78D78;
+    border: 2px solid #FAF7F0  ;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bad+Script&family=Kalam:wght@300;400;700&family=Spicy+Rice&display=swap');
+
+.border
+{
+    border: 3px solid #A78D78;
+    border-radius: 0.5;
+    padding: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+h2{
+    color: #A78D78;
+    font-family: "Kalam", cursive;
+}

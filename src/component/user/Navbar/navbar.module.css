@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bad+Script&family=Kalam:wght@300;400;700&family=Spicy+Rice&display=swap');
+.nav
+{
+    font-family: "Kalam", cursive;
+    background-color: #A78D78;
+}
+.nav a
+{
+    background-color: #A78D78 !important;
+    color: #FAF7F0 !important;
+}
+.logo
+{
+    font-family: "Bad Script", cursive;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.cartCount
+{
+    background-color:#FAF7F0 ;
+    color: #A78D78;
+}
+.btnn
+{
+    border-color: #FAF7F0 !important;
+}

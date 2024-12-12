@@ -1,0 +1,74 @@
+.image{
+    
+    height: 300px !important;
+    width: 65%;
+    box-sizing:content-box !important;
+}
+.title{
+    font-size: 15px; 
+    color: #A78D78 !important;
+}
+.deleted
+{
+    margin-right: 5px;
+    
+}
+small.price 
+{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: #A78D78 !important;
+}
+.control
+{
+    margin-top: 30px;
+}
+.span{
+    margin: auto;
+    color: #A78D78 !important;
+    background-color: #FAF7F0;
+    padding: 10px;
+    border-radius: 20%;
+}
+.next, .prev
+{
+    color: #A78D78 !important;
+    border: 2px solid #A78D78;
+    background-color: #FAF7F0;
+}
+.card
+{
+    border: 2px solid #A78D78;
+    background-color: #FAF7F0;
+}
+.card img{
+    margin: auto;
+    padding: 5px;
+    margin-top: 5px;
+}
+.filter
+{
+    background-color: #FAF7F0;
+    padding: 20px;
+    border-color: #A78D78;
+    border-radius: 20px;
+}
+.filter select
+{
+    color: #A78D78;
+}
+.filter button
+{
+    background-color: #A78D78;
+    border-color: #A78D78;
+
+}
+.filter button:hover
+{
+    background-color: #FAF7F0;
+    color:#A78D78;
+    border-color: #A78D78;
+
+}

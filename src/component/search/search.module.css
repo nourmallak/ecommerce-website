@@ -1,0 +1,25 @@
+.searchForm{
+    padding: 100px 0px 50px;
+}
+
+
+.searchInput
+{
+ width: 70%;
+ padding: 20px;
+ border: 2px solid #A78D78;
+ background-color: #FAF7F0;
+
+}
+.button
+{
+    border: 2px solid #A78D78;
+    color: #A78D78;
+    background-color: #FAF7F0;
+    border-radius: 20%;
+}
+h2.noProduct
+{
+    color: #A78D78;
+text-align: center;
+}

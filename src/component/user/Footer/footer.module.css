@@ -1,0 +1,40 @@
+.body
+{
+    background-color: #A78D78 !important;
+    padding: 90px;
+    margin-top: 60px;
+    
+}
+.body p
+{
+    color: #FAF7F0 !important;
+    margin-top: 30px;
+    margin-bottom: 3rem;
+}
+.body a
+{
+    color: #FAF7F0 !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.body h4
+{
+    color: #FAF7F0 !important;
+    margin-bottom: 20px;
+}
+.social
+{
+    margin-top: 30px;
+    
+
+}
+a.social 
+{
+    margin-left: 10px;
+}
+h4{
+    text-align: left;
+}
+ul{
+ list-style-type: none;
+}

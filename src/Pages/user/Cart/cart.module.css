@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bad+Script&family=Kalam:wght@300;400;700&family=Spicy+Rice&display=swap');
+
+.cart td
+{
+    color: #A78D78 !important;
+}
+.cart
+{
+    margin-bottom: 100vh;
+}
+.cart button
+{
+    color: #FAF7F0 !important;
+    background-color: #A78D78;
+    border: 2px solid #FAF7F0  ;
+    border-radius: 10px;
+    padding: 5px 10px ;
+    font-weight: 600;
+}
+.cart h1
+{
+    text-align: center;
+    margin-block: 200px;
+    font-size: 50px !important;
+    color: #A78D78;
+    font-family: "Kalam", cursive;
+
+}

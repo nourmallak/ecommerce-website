@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+.body
+{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: "Spicy Rice", serif;
+    color: #FAF7F0;
+}
+
+.form
+{
+    background-color: #A78D78;
+    width: 30%;
+    padding: 30px;
+    margin-top: 200px;
+}
+.btnn
+{
+    color : #A78D78;
+    background-color: #FAF7F0;
+}
+.label .input
+{
+    color: #FAF7F0;
+}
+a{
+    color: #FAF7F0;
+}
+.input{
+    color: #A78D78;
+}
